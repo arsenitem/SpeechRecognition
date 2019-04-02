@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\SpeechReco.exe.config
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\SpeechReco.exe
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\SpeechReco.pdb
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\Microsoft.Speech.dll
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\MouseEvents.dll
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\WebDriver.dll
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\x86\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\obj\x86\Debug\SpeechReco.csprojResolveAssemblyReference.cache
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\obj\x86\Debug\SpeechReco.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\obj\x86\Debug\SpeechReco.exe
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\obj\x86\Debug\SpeechReco.pdb

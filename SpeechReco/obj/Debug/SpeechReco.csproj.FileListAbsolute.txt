@@ -1,0 +1,9 @@
+c:\users\pc\source\repos\SpeechReco\SpeechReco\bin\Debug\SpeechReco.exe.config
+c:\users\pc\source\repos\SpeechReco\SpeechReco\bin\Debug\SpeechReco.exe
+c:\users\pc\source\repos\SpeechReco\SpeechReco\bin\Debug\SpeechReco.pdb
+c:\users\pc\source\repos\SpeechReco\SpeechReco\bin\Debug\Microsoft.Speech.dll
+c:\users\pc\source\repos\SpeechReco\SpeechReco\obj\Debug\SpeechReco.csprojResolveAssemblyReference.cache
+c:\users\pc\source\repos\SpeechReco\SpeechReco\obj\Debug\SpeechReco.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\SpeechReco\SpeechReco\obj\Debug\SpeechReco.exe
+c:\users\pc\source\repos\SpeechReco\SpeechReco\obj\Debug\SpeechReco.pdb
+C:\Users\pc\source\repos\SpeechReco\SpeechReco\bin\Debug\MouseEvents.dll
