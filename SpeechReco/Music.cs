@@ -31,9 +31,9 @@ namespace SpeechReco
             Console.WriteLine("Включаю");
             Browser.Navigate().GoToUrl("https://vk.com/audios59553956");         
             IWebElement SearchInput = Browser.FindElement(By.Id("email"));
-            SearchInput.SendKeys("temyen@yandex.ru");
+            SearchInput.SendKeys("login"); //login here
             SearchInput = Browser.FindElement(By.Id("pass"));
-            SearchInput.SendKeys("Temnik99" + OpenQA.Selenium.Keys.Enter);
+            SearchInput.SendKeys("password" + OpenQA.Selenium.Keys.Enter); //pass here
             Browser.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10); //Ожидать загрузки страницы
             SearchInput = Browser.FindElement(By.CssSelector("button[class='audio_page__shuffle_all_button']"));
             SearchInput.Click();

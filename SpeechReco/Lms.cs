@@ -29,9 +29,9 @@ namespace SpeechReco
           
             Browser.Navigate().GoToUrl("https://lms.hse.ru/student.php?ctg=personal");
             IWebElement element = Browser.FindElement(By.Id("user_login-0"));
-            element.SendKeys("adtemnik@edu.hse.ru");
+            element.SendKeys("login"); //your login here
             element = Browser.FindElement(By.Id("user_password-0"));
-            element.SendKeys("Temnik99" + Keys.Enter);
+            element.SendKeys("passowrd" + Keys.Enter); //your pass here
             RecognizelmsCommands();
         }
         public static void RecognizelmsCommands()
